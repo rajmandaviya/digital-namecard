@@ -1,11 +1,10 @@
 BEGIN:VCARD
 VERSION:4.0
-N:;'.$name.';;;
-FN:'.$name.'
-EMAIL:'.$email.'
-ORG:'.$name.'
-TEL:'.$tel.'
-TEL;type=FAX:'.$fax.'
-URL;type=PREF:'.$www.'
-ADR:;'.$address.';;;;;Spain
+N:;Sleeptime;;;
+FN:Sleeptime
+EMAIL:Sleeptime
+ORG:Sleeptime
+TEL:8989898989
+URL;type=PREF:aussiemobileskips.com.au
+ADR:;mota varachha;;;;;Spain
 END:VCARD
